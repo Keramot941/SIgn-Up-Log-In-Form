@@ -1,0 +1,66 @@
+body{
+    background-color: #628E90;
+    font-family: 'Roboto', sans-serif;
+}
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: white;
+    border-radius: 4px
+}
+.login-box{
+    width: 360px;
+    height: 285px;
+    margin: auto;
+    border-radius: 4px;
+    background-color: #fff;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px ;
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 2px solid gray;
+    border-radius: 6px ;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #27AE60;
+    color: #fff;
+    font-size: 18px;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+}
+.pera-2{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.pera-2 a{
+    color: rgb(24, 219, 245);
+    text-decoration: none;
+}
